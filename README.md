@@ -1,3 +1,3 @@
 # SinglePageApp
 The Project is about my Info
-This project tells about my info
+This Application tells about my info
